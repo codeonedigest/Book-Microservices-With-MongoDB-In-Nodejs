@@ -15,7 +15,8 @@ A basic application to demonstrate the microservices architecture with mongodb i
 
 # How to test
 import postman collection in postman and test.
-you can find the postman collections here. https://github.com/codeonedigest/Book-Microservices-With-MongoDB-In-Nodejs/test/postman/
+you can find the postman collections here. 
+https://github.com/codeonedigest/Book-Microservices-With-MongoDB-In-Nodejs/tree/master/test/postman
 
 
 ## Books API
