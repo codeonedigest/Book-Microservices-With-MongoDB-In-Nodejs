@@ -1,3 +1,3 @@
 module.exports={
-    booksMongoURI:`mongodb://0.0.0.0:27017/BOOKS`
+    booksMongoURI:`mongodb://172.17.0.2:27017/BOOKS`
 }
